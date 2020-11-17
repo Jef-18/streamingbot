@@ -1,0 +1,2 @@
+# streamingbot
+PROJETO EM COMPUTAÇÃO APLICADA
